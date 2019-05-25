@@ -1,0 +1,22 @@
+{
+    "name": "bukalapak",
+    "displayName": "Bukalapak",
+    "description": "VScode theme inspired by Bukalapak",
+    "version": "0.0.1",
+    "publisher": "lintangwisesa",
+    "engines": {
+        "vscode": "^1.34.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bukalapak",
+                "uiTheme": "vs",
+                "path": "./themes/Bukalapak-color-theme.json"
+            }
+        ]
+    }
+}
